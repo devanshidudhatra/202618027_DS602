@@ -36,7 +36,7 @@ ALPHA = 0.05
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("insurance.csv")
+    return pd.read_csv("data/insurance.csv")
 
 
 # ============================================================
