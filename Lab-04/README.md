@@ -2,6 +2,10 @@
 
 An end-to-end statistical modeling project based on the **Medical Insurance Costs** dataset. It implements the lab requirements in Python and provides an interactive Streamlit dashboard.
 
+## 🚀 Live Demo
+
+[👉 Open the Streamlit App](https://medical-insurance-lab.streamlit.app/)
+
 ## What is included
 
 ### Part 1 — Exploratory Data Analysis & Hypothesis Testing
@@ -167,7 +171,7 @@ Community Cloud will detect the GitHub update and refresh the deployed app.
 
 ## Statistical conclusion template
 
-The exact p-values are printed by `analysis.py` and shown interactively in the dashboard. At α = 0.05:
+The exact p-values are printed by `202618027_DS602.ipynb` and shown interactively in the dashboard. At α = 0.05:
 
 - If p-value < 0.05: **Reject H0**.
 - If p-value ≥ 0.05: **Fail to reject H0**.
