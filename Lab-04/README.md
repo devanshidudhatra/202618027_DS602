@@ -50,13 +50,13 @@ https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/
 ```text
 medical-insurance-lab/
 ├── app.py
-├── analysis.py
+├── 202618027_Assignment04.ipynb
 ├── requirements.txt
 ├── README.md
 ├── .streamlit/
 │   └── config.toml
 └── data/
-    ├── insurance.csv        # recommended to add before GitHub push
+    ├── insurance.csv        
     └── README.md
 ```
 
@@ -69,7 +69,7 @@ Use a supported Python 3 version. A virtual environment is recommended.
 ### Step 2 — Download/clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/devanshidudhatra/202618027_DS602/tree/main/Lab-04
 cd medical-insurance-lab
 ```
 
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ### Step 5 — Run the Part 1 + Part 2 analysis
 
 ```bash
-python analysis.py
+python 202618027_DS602.ipynb
 ```
 
 This prints the descriptive statistics, Hypothesis Test 1, **both Hypothesis Test 2 tests**, OLS summary, coefficients, model fit, normality diagnostics, and VIF.
@@ -126,7 +126,7 @@ git init
 git add .
 git commit -m "Add medical insurance statistical modeling lab"
 git branch -M main
-git remote add origin <YOUR-GITHUB-REPOSITORY-URL>
+git remote add origin https://github.com/devanshidudhatra/202618027_DS602/tree/main/Lab-04
 git push -u origin main
 ```
 
