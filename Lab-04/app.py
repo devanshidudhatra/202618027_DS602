@@ -36,7 +36,8 @@ ALPHA = 0.05
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/insurance.csv")
+    url = "https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv"
+    return pd.read_csv(url)
 
 
 # ============================================================
