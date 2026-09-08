@@ -182,28 +182,28 @@ Do not write a conclusion based only on the size of a test statistic; use the p-
 
 ### 1. Data Exploration
 
-![Data Exploration](Lab-04/Screenshot 2026-09-08 105243.png)
-![Data Exploration](Lab-04/Screenshot 2026-09-08 105304.png)
-![Data Exploration](Lab-04/Screenshot 2026-09-08 105317.png)
+![Data Exploration](Screenshot 2026-09-08 105243.png)
+![Data Exploration](Screenshot 2026-09-08 105304.png)
+![Data Exploration](Screenshot 2026-09-08 105317.png)
 
 This section provides interactive filtering, descriptive statistics,
 distributions, scatter plots, and correlation analysis.
 
 ### 2. Hypothesis Testing
 
-![Hypothesis Testing](Lab-04/Screenshot 2026-09-08 105340.png)
-![Hypothesis Testing](Lab-04/Screenshot 2026-09-08 105400.png)
-![Hypothesis Testing](Lab-04/Screenshot 2026-09-08 105424.png)
+![Hypothesis Testing](Screenshot 2026-09-08 105340.png)
+![Hypothesis Testing](Screenshot 2026-09-08 105400.png)
+![Hypothesis Testing](Screenshot 2026-09-08 105424.png)
 
 This section performs two-group hypothesis testing, Chi-Square testing,
 and One-Way ANOVA.
 
 ### 3. Live Prediction & Diagnostics
 
-![Prediction and Diagnostics](Lab-04/Screenshot 2026-09-08 105454.png)
-![Prediction and Diagnostics](Lab-04/Screenshot 2026-09-08 105606.png)
-![Prediction and Diagnostics](Lab-04/Screenshot 2026-09-08 105620.png)
-![Prediction and Diagnostics](Lab-04/Screenshot 2026-09-08 105634.png)
+![Prediction and Diagnostics](Screenshot 2026-09-08 105454.png)
+![Prediction and Diagnostics](Screenshot 2026-09-08 105606.png)
+![Prediction and Diagnostics](Screenshot 2026-09-08 105620.png)
+![Prediction and Diagnostics](Screenshot 2026-09-08 105634.png)
 
 This section provides multiple linear regression results, live medical
 charge prediction, confidence and prediction intervals, residual
